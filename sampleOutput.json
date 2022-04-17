@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Boeing and Airbus warn US over 5G safety concerns",
+            "description": "The world's two biggest plane makers say the technology could have a negative impact on the aviation industry.",
+            "url": "http://www.bbc.co.uk/news/business-59737194",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/183DA/production/_122309299_gettyimages-1052089406.jpg",
+            "publishedAt": "2021-12-21T12:37:26.2969677Z",
+            "content": "Image source, Getty Images\r\nBosses from the world's two biggest plane makers have called on the US government to delay the rollout of new 5G phone services.\r\nIn a letter, top executives at Boeing and… [+2434 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "WHO urges cancelling some holiday events over Omicron fears",
+            "description": "\"An event cancelled is better than a life cancelled,\" warns the World Health Organization's head.",
+            "url": "http://www.bbc.co.uk/news/world-59733716",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F32B/production/_122315226_1_976_hi072641584.jpg",
+            "publishedAt": "2021-12-21T12:37:21.6574977Z",
+            "content": "Media caption, Dr Tedros Adhanom Ghebreyesus: \"An event cancelled is better than a life cancelled\"\r\nThe World Health Organization has urged people to cancel some of their holiday plans to protect pub… [+2652 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid Omicron: Biden buys 500m test kits to tackle surge",
+            "description": "The US will also deploy more military medics amid fears the holiday season will boost a Covid spike.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59738678",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1195F/production/_122313027_mediaitem122313026.jpg",
+            "publishedAt": "2021-12-21T12:22:22.0367658Z",
+            "content": "Image caption, Queues in Times Square, New York, as people get tested ahead of the holiday season\r\nUS President Joe Biden's administration is to make 500 million rapid tests for Covid available amid … [+2869 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Princess Haya: The princess, the sheikh and the £550m divorce settlement",
+            "description": "A UK court publishes a ruling in the divorce case of Sheikh Mohammed and his ex-wife Princess Haya.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-59739563",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/112C5/production/_122314307_055593695-2.jpg",
+            "publishedAt": "2021-12-21T10:52:20.0669973Z",
+            "content": "By Frank GardnerBBC security correspondent\r\nImage caption, Sheikh Mohammed Bin Rashid Al-Maktoum and his estranged wife, Princess Haya Bint Al-Hussain\r\nIt's described as the biggest divorce case in B… [+5170 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid: Omicron transmission eye-wateringly high - scientist",
+            "description": "If cases and hospital admissions keep rising fast, action will be needed before Christmas, scientist Jeremy Farrar says.",
+            "url": "http://www.bbc.co.uk/news/live/uk-59738511",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+            "publishedAt": "2021-12-21T09:52:26.2696684Z",
+            "content": "It's better for countries to control the spread of coronavirus and avoid using lockdowns, a World Health Organization leader says. \r\nDr Margaret Harris, a public health doctor from the WHO, tells Sky… [+575 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Largest-ever millipede fossil found on Northumberland beach",
+            "description": "It is thought to have been more than 8ft (2.5m) long and lived 326 million years ago in Northumberland.",
+            "url": "http://www.bbc.co.uk/news/science-environment-59734747",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9646/production/_122307483_1fb8c9b4-de3f-4f0b-9606-5b5c48c08e7e.jpg",
+            "publishedAt": "2021-12-21T04:37:20.4862377Z",
+            "content": "By Jonah FisherEnvironment Correspondent\r\nImage source, Neil Davies\r\nScientists say they have discovered the largest-ever fossil of a giant millipede on a beach in Northumberland, totally by chance.\r… [+2159 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The secret lives of Maxwell and Epstein",
+            "description": "Never-before-seen photos released during her trial shed new light on their private lives.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59737125",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AD02/production/_122309244_p0bc87x0.jpg",
+            "publishedAt": "2021-12-21T03:52:19.375684Z",
+            "content": "New photos presented as evidence during Ghislaine Maxwell's trial document the close relationship between her and Epstein and offer a glimpse into their lavish lifestyle. \r\nMs Maxwell is on trial in … [+149 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Abducted Haiti missionaries describe daring escape",
+            "description": "The group, including four children, navigated by the stars as they trekked through the bush to freedom.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59736726",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10A5E/production/_122309186_hostages-haiti.jpg",
+            "publishedAt": "2021-12-21T01:22:19.4670207Z",
+            "content": "Image source, Christian Aid Ministries via CBS\r\nImage caption, Fifteen of the 17 missionaries who were held hostage in Haiti\r\nTwelve missionaries who spent months in captivity after being kidnapped i… [+3521 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Timed Teaser: Bruce Springsteen's back catalogue - who bought it?",
+            "description": "Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go!",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59728144",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/70B2/production/_122305882_brsin.jpg",
+            "publishedAt": "2021-12-20T17:22:18.7208673Z",
+            "content": "Test your news knowledge against the clock. Can you outscore your friends?\r\nIf you cannot see the quiz, follow this link.\r\nWant more of the same? Try last week's teaser. Or take Friday's quiz of the … [+75 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Prosecutors call Ghislaine Maxwell 'sophisticated predator' in closing arguments",
+            "description": "Prosecutors say Ms Maxwell was \"sophisticated predator\" of vulnerable children. She denies all charges.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59730923",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12B60/production/_122304667_0001_4.jpg",
+            "publishedAt": "2021-12-20T16:07:21.2835794Z",
+            "content": "Image source, US Attorney's Office SDNY\r\nImage caption, Ghislaine Maxwell and Jeffrey Epstein\r\nUS prosecutors have called Ghislaine Maxwell a \"sophisticated predator\" during closing arguments in the … [+2726 chars]"
+        }
+    ]
+}
